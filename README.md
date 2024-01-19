@@ -12,7 +12,19 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 
 
 
+- 🔭 I’m currently working on **GPS Tracker Platform**
 
+- 🌱 I’m currently learning **Angular**
+
+- 👯 I’m looking to collaborate on **Java Projects**
+
+- 👨‍💻 All of my projects are available at Github
+
+- 💬 Ask me about **React,Nodejs,java,Javascript,C# **
+
+
+
+- ⚡ Fun fact **I dubug code in my dreams**
 
 - 📫 How to reach me **sondesmessai135@outlook.fr**
 
