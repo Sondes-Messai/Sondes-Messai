@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sondes Messai</h1>
 <h3 align="center">Développeur full stack Java/Js /C# from France</h3>
 
+
+
+<h1>:wave: Salut !</h1>
+<p align="justify">Je m'appelle Sondes, je me suis lançé dans le Développement Web depuis 2021. J'ai suivi une formation de CDA en 2023 Je réalise plusieurs petits projets en méthode Agile / Scrum, en équipe ou seul, afin de m'améliorer chaque jour.
+  
+Ici tu trouveras des repository d'apprentissages, testes et divers projets.
+Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
+
+
+
+
+
 - 📫 How to reach me **sondesmessai135@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
