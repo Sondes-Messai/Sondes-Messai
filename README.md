@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sondes Messai</h1>
+<h1 align="center">Hi, I'm Sondes Messai</h1>
 <h3 align="center">Développeur full stack Java/Js /C# /python from France 🇫🇷</h3>
 <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif' width='300"'>
 
