@@ -42,8 +42,9 @@ Envie d'apprendre, tester et de partager mes connaissances avec les autres.</p>
 <img src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" alt="robotframework" width="40" height="40"/> 
 </a>
 <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" alt="robotframework" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg" alt="robotframework" width="40" height="40"/> 
 </a>
+
 
 </a>
 
